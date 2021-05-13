@@ -1,5 +1,6 @@
 {
   "name": "react-native-gpx",
+  "version": "1",
   "description": "Library for parsing and generating GPX files",
   "main": "index.js",
   "repository": "https://github.com/kylekewley/react-native-gpx",
